@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="fonts/Apache License.txt" />
+		<Unit filename="fonts/OpenSans-Bold.ttf" />
+		<Unit filename="fonts/OpenSans-BoldItalic.ttf" />
+		<Unit filename="fonts/OpenSans-ExtraBold.ttf" />
+		<Unit filename="fonts/OpenSans-ExtraBoldItalic.ttf" />
+		<Unit filename="fonts/OpenSans-Italic.ttf" />
+		<Unit filename="fonts/OpenSans-Light.ttf" />
+		<Unit filename="fonts/OpenSans-LightItalic.ttf" />
+		<Unit filename="fonts/OpenSans-Regular.ttf" />
+		<Unit filename="fonts/OpenSans-Semibold.ttf" />
+		<Unit filename="fonts/OpenSans-SemiboldItalic.ttf" />
+		<Unit filename="images/bullet.png" />
+		<Unit filename="images/bullet2.png" />
+		<Unit filename="images/heliceptor.kra" />
+		<Unit filename="images/interceptor.kra" />
+		<Unit filename="images/interceptor.png" />
+		<Unit filename="images/kosmo2.png" />
+		<Unit filename="images/kosmo3.png" />
+		<Unit filename="images/rock.png" />
+		<Unit filename="images/rockg.png" />
+		<Unit filename="include/classes.hpp" />
+		<Unit filename="src/Bullet.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Interceptor.cpp" />
+		<Unit filename="src/Rock.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

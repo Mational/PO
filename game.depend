@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1641235620 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\bullet.cpp
+	"../include/classes.hpp"
+
+1641235697 c:\users\grzeg\onedrive\pulpit\gra-kopia\include\classes.hpp
+	<windows.h>
+	<iostream>
+	<sstream>
+	<vector>
+	<map>
+	<utility>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Network.hpp>
+	<SFML/Network.hpp>
+
+1641232263 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\main.cpp
+	"../include/classes.hpp"
+
+1641232548 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\game.cpp
+	"../include/classes.hpp"
+
+1641235475 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\interceptor.cpp
+	"../include/classes.hpp"
+
+1641231329 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\mysounds.cpp
+	"../include/classes.hpp"
+
+1641235595 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\rock.cpp
+	"../include/classes.hpp"
+
+1639700191 source:c:\users\grzeg\onedrive\pulpit\gra\src\bullet.cpp
+	"../include/classes.hpp"
+
+1639698213 c:\users\grzeg\onedrive\pulpit\gra\include\classes.hpp
+	<windows.h>
+	<iostream>
+	<sstream>
+	<vector>
+	<map>
+	<utility>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Network.hpp>
+	<SFML/Network.hpp>
+
+1639700029 source:c:\users\grzeg\onedrive\pulpit\gra\src\game.cpp
+	"../include/classes.hpp"
+
+1639699415 source:c:\users\grzeg\onedrive\pulpit\gra\src\interceptor.cpp
+	"../include/classes.hpp"
+
+1641232263 source:c:\users\grzeg\onedrive\pulpit\gra\src\main.cpp
+	"../include/classes.hpp"
+
+1639697707 source:c:\users\grzeg\onedrive\pulpit\gra\src\rock.cpp
+	"../include/classes.hpp"
+
+1641231329 source:c:\users\grzeg\onedrive\pulpit\gra\src\mysounds.cpp
+	"../include/classes.hpp"
+
