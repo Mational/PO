@@ -32,7 +32,7 @@ Game::Game ( sf::String title ) : sf::RenderWindow(sf::VideoMode(SCREENX,SCREENY
     this->strT.setCharacterSize(20);    //rozmiar czcionki wyniku
     this->strT.setFillColor(sf::Color(0xffffffff)); //kolor wyniku
 
-    this->t = sf::seconds(10);  //czas gry ustawiony na 90 sekund
+    this->t = sf::seconds(90);  //czas gry ustawiony na 90 sekund
     this->inf = sf::seconds(0);
 
     srand(time(NULL));  //losowanie 1 z 3 backgroundow
@@ -62,7 +62,7 @@ void Game::run()
     Rock::tx.loadFromFile("images/rock.png");   //ladowanie grafki skal zwyklych
     Rock::txg.loadFromFile("images/rockg.png"); //ladowanie grafiki skal leczacych
     FirstAid::tx.loadFromFile("images/first_aid.png"); //ladowanie grafiki apteczki
-    InfiniteAmmo::tx.loadFromFile("images/interceptor.png"); //ladowanie grafiki nieskonczonej amunicji
+    InfiniteAmmo::tx.loadFromFile("images/inf_ammo.png"); //ladowanie grafiki nieskonczonej amunicji
     setSFMLWindow(this->getSystemHandle()); //nie wiem
     sf::Time start = Game::clock.getElapsedTime();  //czas ktory uplynal od startu albo restartu
     sf::Time tick = sf::microseconds(0);

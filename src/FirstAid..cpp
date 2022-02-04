@@ -5,7 +5,7 @@ sf::Texture FirstAid::tx;
 FirstAid::FirstAid() : sf::RectangleShape()
 {
     this->setTexture(&FirstAid::tx);
-    this->setSize(sf::Vector2f(30.f,30.f));
+    this->setSize(sf::Vector2f(50.f,50.f));
     this->setOrigin(this->getSize().x/2,this->getSize().y/2); //ustawia srodek ciezkosci apteczki
     this->setPosition(sf::Vector2f(SCREENX + 150,rand()%(SCREENY-50) + 25));    //generuje pozycje poczatkowa apteczki
     this->setTextureRect(sf::IntRect(0,0, this->tx.getSize().x, this->tx.getSize().y));
