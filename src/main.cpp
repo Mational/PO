@@ -2,8 +2,8 @@
 
 using namespace std;
 
-/// THE GAME 1 ///
-Game theGame("Game 1"); /// globalna gra, The Gra
+// THE GAME 1 //
+Game theGame("Guns'n'Jets"); //Tytul
 
 int main()
 {

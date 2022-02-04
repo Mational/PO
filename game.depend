@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1641235620 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\bullet.cpp
+1642859843 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\bullet.cpp
 	"../include/classes.hpp"
 
-1641235697 c:\users\grzeg\onedrive\pulpit\gra-kopia\include\classes.hpp
+1643977781 c:\users\grzeg\onedrive\pulpit\gra-kopia\include\classes.hpp
 	<windows.h>
 	<iostream>
 	<sstream>
@@ -10,23 +10,20 @@
 	<map>
 	<utility>
 	<SFML/Graphics.hpp>
-	<SFML/Audio.hpp>
-	<SFML/Network.hpp>
-	<SFML/Network.hpp>
 
-1641232263 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\main.cpp
+1642944201 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\main.cpp
 	"../include/classes.hpp"
 
-1641232548 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\game.cpp
+1643978367 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\game.cpp
 	"../include/classes.hpp"
 
-1641235475 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\interceptor.cpp
+1643978632 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\interceptor.cpp
 	"../include/classes.hpp"
 
 1641231329 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\mysounds.cpp
 	"../include/classes.hpp"
 
-1641235595 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\rock.cpp
+1642856190 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\rock.cpp
 	"../include/classes.hpp"
 
 1639700191 source:c:\users\grzeg\onedrive\pulpit\gra\src\bullet.cpp
@@ -59,27 +56,9 @@
 1641231329 source:c:\users\grzeg\onedrive\pulpit\gra\src\mysounds.cpp
 	"../include/classes.hpp"
 
-1641235620 source:c:\users\grzeg\onedrive\pulpit\po\src\bullet.cpp
+1642955805 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\firstaid..cpp
 	"../include/classes.hpp"
 
-1641235697 c:\users\grzeg\onedrive\pulpit\po\include\classes.hpp
-	<windows.h>
-	<iostream>
-	<sstream>
-	<vector>
-	<map>
-	<utility>
-	<SFML/Graphics.hpp>
-	<SFML/Audio.hpp>
-	<SFML/Network.hpp>
-	<SFML/Network.hpp>
-
-1641232548 source:c:\users\grzeg\onedrive\pulpit\po\src\game.cpp
-	"../include/classes.hpp"
-
-1641235657 source:c:\users\grzeg\onedrive\pulpit\po\src\interceptor.cpp
-	"../include/classes.hpp"
-
-1641232263 source:c:\users\grzeg\onedrive\pulpit\po\src\main.cpp
+1643103097 source:c:\users\grzeg\onedrive\pulpit\gra-kopia\src\infiniteammo.cpp
 	"../include/classes.hpp"
 
